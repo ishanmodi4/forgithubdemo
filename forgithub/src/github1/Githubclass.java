@@ -12,6 +12,10 @@ public class Githubclass {
 	{
 		System.out.println("Today is sunday");
 	}
+	public void night()
+	{
+		System.out.println("Today is Sunday night");
+	}
 	}
 
 
